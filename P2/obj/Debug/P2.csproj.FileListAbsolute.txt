@@ -1,0 +1,95 @@
+C:\Users\Usuario\source\repos\P2\P2\bin\Debug\P2.exe.config
+C:\Users\Usuario\source\repos\P2\P2\bin\Debug\P2.exe
+C:\Users\Usuario\source\repos\P2\P2\bin\Debug\P2.pdb
+C:\Users\Usuario\source\repos\P2\P2\obj\Debug\P2.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\P2\P2\obj\Debug\P2.Form1.resources
+C:\Users\Usuario\source\repos\P2\P2\obj\Debug\P2.Properties.Resources.resources
+C:\Users\Usuario\source\repos\P2\P2\obj\Debug\P2.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\P2\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\P2\P2\obj\Debug\P2.exe
+C:\Users\Usuario\source\repos\P2\P2\obj\Debug\P2.pdb
+C:\Users\aluno\Downloads\P2\P2\bin\Debug\P2.exe.config
+C:\Users\aluno\Downloads\P2\P2\bin\Debug\P2.exe
+C:\Users\aluno\Downloads\P2\P2\bin\Debug\P2.pdb
+C:\Users\aluno\Downloads\P2\P2\obj\Debug\P2.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\P2\P2\obj\Debug\P2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Downloads\P2\P2\obj\Debug\P2.Form1.resources
+C:\Users\aluno\Downloads\P2\P2\obj\Debug\P2.Form2.resources
+C:\Users\aluno\Downloads\P2\P2\obj\Debug\P2.Form3.resources
+C:\Users\aluno\Downloads\P2\P2\obj\Debug\P2.Form4.resources
+C:\Users\aluno\Downloads\P2\P2\obj\Debug\P2.Form5.resources
+C:\Users\aluno\Downloads\P2\P2\obj\Debug\P2.Form6.resources
+C:\Users\aluno\Downloads\P2\P2\obj\Debug\P2.Properties.Resources.resources
+C:\Users\aluno\Downloads\P2\P2\obj\Debug\P2.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\P2\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\P2\P2\obj\Debug\P2.exe
+C:\Users\aluno\Downloads\P2\P2\obj\Debug\P2.pdb
+C:\Users\Usuario\Downloads\P2\P2\bin\Debug\P2.exe.config
+C:\Users\Usuario\Downloads\P2\P2\bin\Debug\P2.exe
+C:\Users\Usuario\Downloads\P2\P2\bin\Debug\P2.pdb
+C:\Users\Usuario\Downloads\P2\P2\obj\Debug\P2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\P2\P2\obj\Debug\P2.Form1.resources
+C:\Users\Usuario\Downloads\P2\P2\obj\Debug\P2.Form2.resources
+C:\Users\Usuario\Downloads\P2\P2\obj\Debug\P2.Form3.resources
+C:\Users\Usuario\Downloads\P2\P2\obj\Debug\P2.Form4.resources
+C:\Users\Usuario\Downloads\P2\P2\obj\Debug\P2.Form5.resources
+C:\Users\Usuario\Downloads\P2\P2\obj\Debug\P2.Form6.resources
+C:\Users\Usuario\Downloads\P2\P2\obj\Debug\P2.Properties.Resources.resources
+C:\Users\Usuario\Downloads\P2\P2\obj\Debug\P2.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\P2\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\P2\P2\obj\Debug\P2.exe
+C:\Users\Usuario\Downloads\P2\P2\obj\Debug\P2.pdb
+C:\Users\VAIO\Desktop\P2\P2\bin\Debug\SML 1.0.mdf
+C:\Users\VAIO\Desktop\P2\P2\bin\Debug\SML 1.0_log.ldf
+C:\Users\VAIO\Desktop\P2\P2\bin\Debug\P2.exe.config
+C:\Users\VAIO\Desktop\P2\P2\bin\Debug\P2.exe
+C:\Users\VAIO\Desktop\P2\P2\bin\Debug\P2.pdb
+C:\Users\VAIO\Desktop\P2\P2\obj\Debug\P2.csproj.AssemblyReference.cache
+C:\Users\VAIO\Desktop\P2\P2\obj\Debug\P2.AdicionarLivro.resources
+C:\Users\VAIO\Desktop\P2\P2\obj\Debug\P2.Cadastro.resources
+C:\Users\VAIO\Desktop\P2\P2\obj\Debug\P2.Favoritos.resources
+C:\Users\VAIO\Desktop\P2\P2\obj\Debug\P2.Homepage.resources
+C:\Users\VAIO\Desktop\P2\P2\obj\Debug\P2.Login.resources
+C:\Users\VAIO\Desktop\P2\P2\obj\Debug\P2.Properties.Resources.resources
+C:\Users\VAIO\Desktop\P2\P2\obj\Debug\P2.Visualizar_Livros.resources
+C:\Users\VAIO\Desktop\P2\P2\obj\Debug\P2.csproj.GenerateResource.cache
+C:\Users\VAIO\Desktop\P2\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\Desktop\P2\P2\obj\Debug\P2.exe
+C:\Users\VAIO\Desktop\P2\P2\obj\Debug\P2.pdb
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\obj\Debug\P2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\obj\Debug\P2.exe
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\obj\Debug\P2.pdb
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\obj\Debug\P2.AdicionarLivro.resources
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\obj\Debug\P2.Cadastro.resources
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\obj\Debug\P2.ExibirLivro.resources
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\obj\Debug\P2.Homepage.resources
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\obj\Debug\P2.Login.resources
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\obj\Debug\P2.Properties.Resources.resources
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\obj\Debug\P2.Visualizar_Livros.resources
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\obj\Debug\P2.VizualizarLivro.resources
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\obj\Debug\P2.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\bin\Debug\SML 1.0.mdf
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\bin\Debug\SML 1.0_log.ldf
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\bin\Debug\P2.exe.config
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\bin\Debug\P2.exe
+C:\Users\Usuario\Downloads\P2 com banco\P2\P2\bin\Debug\P2.pdb
+C:\Users\VAIO\Desktop\P2.1\P2\bin\Debug\SML 1.0.mdf
+C:\Users\VAIO\Desktop\P2.1\P2\bin\Debug\SML 1.0_log.ldf
+C:\Users\VAIO\Desktop\P2.1\P2\bin\Debug\P2.exe.config
+C:\Users\VAIO\Desktop\P2.1\P2\bin\Debug\P2.exe
+C:\Users\VAIO\Desktop\P2.1\P2\bin\Debug\P2.pdb
+C:\Users\VAIO\Desktop\P2.1\P2\obj\Debug\P2.csproj.AssemblyReference.cache
+C:\Users\VAIO\Desktop\P2.1\P2\obj\Debug\P2.AdicionarLivro.resources
+C:\Users\VAIO\Desktop\P2.1\P2\obj\Debug\P2.Cadastro.resources
+C:\Users\VAIO\Desktop\P2.1\P2\obj\Debug\P2.ExibirLivro.resources
+C:\Users\VAIO\Desktop\P2.1\P2\obj\Debug\P2.Favoritos.resources
+C:\Users\VAIO\Desktop\P2.1\P2\obj\Debug\P2.Homepage.resources
+C:\Users\VAIO\Desktop\P2.1\P2\obj\Debug\P2.Login.resources
+C:\Users\VAIO\Desktop\P2.1\P2\obj\Debug\P2.Properties.Resources.resources
+C:\Users\VAIO\Desktop\P2.1\P2\obj\Debug\P2.Visualizar_Livros.resources
+C:\Users\VAIO\Desktop\P2.1\P2\obj\Debug\P2.VizualizarLivro.resources
+C:\Users\VAIO\Desktop\P2.1\P2\obj\Debug\P2.csproj.GenerateResource.cache
+C:\Users\VAIO\Desktop\P2.1\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\Desktop\P2.1\P2\obj\Debug\P2.exe
+C:\Users\VAIO\Desktop\P2.1\P2\obj\Debug\P2.pdb
