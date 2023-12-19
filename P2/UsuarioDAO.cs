@@ -37,8 +37,7 @@ namespace P2
 
                         int rowsAffected = command.ExecuteNonQuery();
 
-                        Console.WriteLine(rowsAffected);
-                        Console.ReadLine();
+                      
                         return rowsAffected > 0;
                  
                     }

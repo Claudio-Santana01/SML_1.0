@@ -13,7 +13,7 @@ namespace P2
         {
             try
             {
-                using (SqlConnection connection = new SqlConnection("Data Source=seu_servidor;Initial Catalog=_SML_1_0DataSet;Integrated Security=True;")) // Verificar a connection
+                using (SqlConnection connection = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\VAIO\\Desktop\\P2.1\\P2\\SML 1.0.mdf\";Integrated Security=True;Connect Timeout=30")) // Verificar a connection
                 {
                     connection.Open();
 
@@ -55,7 +55,7 @@ namespace P2
         {
             List<Livro> livros = new List<Livro>();
 
-            using (SqlConnection connection = new SqlConnection("sua_string_de_conexao"))
+            using (SqlConnection connection = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\VAIO\\Desktop\\P2.1\\P2\\SML 1.0.mdf\";Integrated Security=True;Connect Timeout=30"))
             {
                 connection.Open();
 
