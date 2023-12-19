@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.pictureBoxCapa = new System.Windows.Forms.PictureBox();
             this.btnInserirCapa = new System.Windows.Forms.Button();
@@ -48,9 +49,14 @@
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.radioButtonFavoritar = new System.Windows.Forms.RadioButton();
             this.btn_cadastrar = new System.Windows.Forms.Button();
+            this.label8 = new System.Windows.Forms.Label();
+            this._SML_1_0DataSet = new P2._SML_1_0DataSet();
+            this.sML10DataSetBindingSource = new System.Windows.Forms.BindingSource(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCapa)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownNota)).BeginInit();
             this.panelFavoritar.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this._SML_1_0DataSet)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.sML10DataSetBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // linkLabel1
@@ -189,6 +195,10 @@
             this.comboBoxStatus.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.comboBoxStatus.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboBoxStatus.FormattingEnabled = true;
+            this.comboBoxStatus.Items.AddRange(new object[] {
+            "1- Lido",
+            "2- Em Progresso",
+            "3 - Não Lido"});
             this.comboBoxStatus.Location = new System.Drawing.Point(316, 349);
             this.comboBoxStatus.Name = "comboBoxStatus";
             this.comboBoxStatus.Size = new System.Drawing.Size(205, 28);
@@ -299,6 +309,25 @@
             this.btn_cadastrar.UseVisualStyleBackColor = false;
             this.btn_cadastrar.Click += new System.EventHandler(this.btn_cadastrar_Click);
             // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(128, 55);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(48, 13);
+            this.label8.TabIndex = 41;
+            this.label8.Text = "152x188";
+            // 
+            // _SML_1_0DataSet
+            // 
+            this._SML_1_0DataSet.DataSetName = "_SML_1_0DataSet";
+            this._SML_1_0DataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // sML10DataSetBindingSource
+            // 
+            this.sML10DataSetBindingSource.DataSource = this._SML_1_0DataSet;
+            this.sML10DataSetBindingSource.Position = 0;
+            // 
             // AdicionarLivro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -306,6 +335,7 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(149)))), ((int)(((byte)(254)))), ((int)(((byte)(216)))));
             this.ClientSize = new System.Drawing.Size(584, 561);
             this.ControlBox = false;
+            this.Controls.Add(this.label8);
             this.Controls.Add(this.btn_cadastrar);
             this.Controls.Add(this.panelFavoritar);
             this.Controls.Add(this.numericUpDownNota);
@@ -330,6 +360,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownNota)).EndInit();
             this.panelFavoritar.ResumeLayout(false);
             this.panelFavoritar.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this._SML_1_0DataSet)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.sML10DataSetBindingSource)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -357,5 +389,8 @@
         private System.Windows.Forms.RadioButton radioButton2;
         private System.Windows.Forms.RadioButton radioButtonFavoritar;
         private System.Windows.Forms.Button btn_cadastrar;
+        private System.Windows.Forms.Label label8;
+        private _SML_1_0DataSet _SML_1_0DataSet;
+        private System.Windows.Forms.BindingSource sML10DataSetBindingSource;
     }
 }
